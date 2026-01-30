@@ -1,0 +1,646 @@
+{
+    "results": [
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 292670000,
+                "clicks": "57",
+                "impressions": "1140"
+            },
+            "segments": {
+                "date": "2024-11-15"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 790540000,
+                "clicks": "187",
+                "impressions": "3740"
+            },
+            "segments": {
+                "date": "2024-11-15"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 649430000,
+                "clicks": "127",
+                "impressions": "2540"
+            },
+            "segments": {
+                "date": "2024-11-16"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 106940000,
+                "clicks": "179",
+                "impressions": "3580"
+            },
+            "segments": {
+                "date": "2024-11-16"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 666770000,
+                "clicks": "132",
+                "impressions": "2640"
+            },
+            "segments": {
+                "date": "2024-11-17"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 990090000,
+                "clicks": "157",
+                "impressions": "3140"
+            },
+            "segments": {
+                "date": "2024-11-17"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 399850000,
+                "clicks": "179",
+                "impressions": "3580"
+            },
+            "segments": {
+                "date": "2024-11-18"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 729660000,
+                "clicks": "79",
+                "impressions": "1580"
+            },
+            "segments": {
+                "date": "2024-11-18"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 942410000,
+                "clicks": "107",
+                "impressions": "2140"
+            },
+            "segments": {
+                "date": "2024-11-19"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 447890000,
+                "clicks": "197",
+                "impressions": "3940"
+            },
+            "segments": {
+                "date": "2024-11-19"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 243460000,
+                "clicks": "139",
+                "impressions": "2780"
+            },
+            "segments": {
+                "date": "2024-11-20"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 104990000,
+                "clicks": "131",
+                "impressions": "2620"
+            },
+            "segments": {
+                "date": "2024-11-20"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 900830000,
+                "clicks": "76",
+                "impressions": "1520"
+            },
+            "segments": {
+                "date": "2024-11-21"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 322280000,
+                "clicks": "173",
+                "impressions": "3460"
+            },
+            "segments": {
+                "date": "2024-11-21"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 625070000,
+                "clicks": "149",
+                "impressions": "2980"
+            },
+            "segments": {
+                "date": "2024-11-22"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 718830000,
+                "clicks": "196",
+                "impressions": "3920"
+            },
+            "segments": {
+                "date": "2024-11-22"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 519250000,
+                "clicks": "190",
+                "impressions": "3800"
+            },
+            "segments": {
+                "date": "2024-11-23"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 568920000,
+                "clicks": "198",
+                "impressions": "3960"
+            },
+            "segments": {
+                "date": "2024-11-23"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 734240000,
+                "clicks": "120",
+                "impressions": "2400"
+            },
+            "segments": {
+                "date": "2024-11-24"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 491870000,
+                "clicks": "108",
+                "impressions": "2160"
+            },
+            "segments": {
+                "date": "2024-11-24"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99901",
+                "name": "GAds_Camp_99901",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99901",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99901",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 450570000,
+                "clicks": "144",
+                "impressions": "2880"
+            },
+            "segments": {
+                "date": "2024-11-25"
+            }
+        },
+        {
+            "customer": {
+                "id": "123456",
+                "descriptiveName": "Cliente Teste"
+            },
+            "campaign": {
+                "id": "99902",
+                "name": "GAds_Camp_99902",
+                "advertisingChannelType": "SEARCH"
+            },
+            "adGroup": {
+                "id": "ag_99902",
+                "name": "Conjunto_Teste"
+            },
+            "adGroupAd": {
+                "ad": {
+                    "id": "ad_99902",
+                    "type": "TEXT_AD"
+                }
+            },
+            "metrics": {
+                "costMicros": 825820000,
+                "clicks": "189",
+                "impressions": "3780"
+            },
+            "segments": {
+                "date": "2024-11-25"
+            }
+        }
+    ],
+    "metadata": {
+        "total_count": 22,
+        "period": "2024-11-15 to 2024-11-25"
+    }
+}
