@@ -1,0 +1,294 @@
+{
+    "data": [
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-15",
+            "spend": "234.69",
+            "clicks": "102",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-15",
+            "spend": "66.98",
+            "clicks": "28",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-16",
+            "spend": "359.9",
+            "clicks": "104",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-16",
+            "spend": "186.88",
+            "clicks": "132",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-17",
+            "spend": "463.93",
+            "clicks": "116",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-17",
+            "spend": "215.77",
+            "clicks": "117",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-18",
+            "spend": "268.44",
+            "clicks": "55",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-18",
+            "spend": "124.89",
+            "clicks": "100",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-19",
+            "spend": "148.71",
+            "clicks": "61",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-19",
+            "spend": "307.66",
+            "clicks": "137",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-20",
+            "spend": "112.09",
+            "clicks": "116",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-20",
+            "spend": "122.99",
+            "clicks": "71",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-21",
+            "spend": "143.62",
+            "clicks": "31",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-21",
+            "spend": "268.47",
+            "clicks": "20",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-22",
+            "spend": "106.03",
+            "clicks": "73",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-22",
+            "spend": "97.85",
+            "clicks": "42",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-23",
+            "spend": "247.09",
+            "clicks": "86",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-23",
+            "spend": "170.27",
+            "clicks": "59",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-24",
+            "spend": "390.07",
+            "clicks": "115",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-24",
+            "spend": "489.28",
+            "clicks": "111",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "Meta_Camp_99901",
+            "date_start": "2024-11-25",
+            "spend": "361.25",
+            "clicks": "71",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "3"
+                }
+            ]
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "Meta_Camp_99902",
+            "date_start": "2024-11-25",
+            "spend": "203.5",
+            "clicks": "48",
+            "actions": [
+                {
+                    "action_type": "purchase",
+                    "value": "4"
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "total_count": 22,
+        "period": "2024-11-15 to 2024-11-25"
+    }
+}

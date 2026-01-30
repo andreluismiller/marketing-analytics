@@ -1,0 +1,206 @@
+{
+    "data": [
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-15",
+            "metrics": {
+                "spend": "134.37",
+                "clicks": "399"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-15",
+            "metrics": {
+                "spend": "72.91",
+                "clicks": "298"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-16",
+            "metrics": {
+                "spend": "58.63",
+                "clicks": "492"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-16",
+            "metrics": {
+                "spend": "32.19",
+                "clicks": "185"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-17",
+            "metrics": {
+                "spend": "195.41",
+                "clicks": "353"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-17",
+            "metrics": {
+                "spend": "44.3",
+                "clicks": "137"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-18",
+            "metrics": {
+                "spend": "166.84",
+                "clicks": "179"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-18",
+            "metrics": {
+                "spend": "128.71",
+                "clicks": "488"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-19",
+            "metrics": {
+                "spend": "65.41",
+                "clicks": "410"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-19",
+            "metrics": {
+                "spend": "41.04",
+                "clicks": "211"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-20",
+            "metrics": {
+                "spend": "41.58",
+                "clicks": "347"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-20",
+            "metrics": {
+                "spend": "119.62",
+                "clicks": "430"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-21",
+            "metrics": {
+                "spend": "168.75",
+                "clicks": "128"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-21",
+            "metrics": {
+                "spend": "180.89",
+                "clicks": "171"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-22",
+            "metrics": {
+                "spend": "169.6",
+                "clicks": "283"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-22",
+            "metrics": {
+                "spend": "37.77",
+                "clicks": "466"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-23",
+            "metrics": {
+                "spend": "120.07",
+                "clicks": "464"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-23",
+            "metrics": {
+                "spend": "49.76",
+                "clicks": "129"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-24",
+            "metrics": {
+                "spend": "72.33",
+                "clicks": "467"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-24",
+            "metrics": {
+                "spend": "83.16",
+                "clicks": "254"
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "campaign_name": "TikTok_Camp_99901",
+            "stat_time_day": "2024-11-25",
+            "metrics": {
+                "spend": "117.16",
+                "clicks": "222"
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "campaign_name": "TikTok_Camp_99902",
+            "stat_time_day": "2024-11-25",
+            "metrics": {
+                "spend": "143.96",
+                "clicks": "455"
+            }
+        }
+    ],
+    "metadata": {
+        "total_count": 22,
+        "period": "2024-11-15 to 2024-11-25"
+    }
+}

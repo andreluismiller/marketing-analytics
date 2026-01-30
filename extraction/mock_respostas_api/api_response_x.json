@@ -1,0 +1,184 @@
+{
+    "data": [
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-15",
+            "metrics": {
+                "billed_charge_local_micro": 62750000,
+                "impressions": 817
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-15",
+            "metrics": {
+                "billed_charge_local_micro": 12270000,
+                "impressions": 1264
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-16",
+            "metrics": {
+                "billed_charge_local_micro": 50660000,
+                "impressions": 1199
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-16",
+            "metrics": {
+                "billed_charge_local_micro": 14520000,
+                "impressions": 777
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-17",
+            "metrics": {
+                "billed_charge_local_micro": 61040000,
+                "impressions": 520
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-17",
+            "metrics": {
+                "billed_charge_local_micro": 33340000,
+                "impressions": 728
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-18",
+            "metrics": {
+                "billed_charge_local_micro": 76820000,
+                "impressions": 1534
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-18",
+            "metrics": {
+                "billed_charge_local_micro": 41410000,
+                "impressions": 1715
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-19",
+            "metrics": {
+                "billed_charge_local_micro": 10630000,
+                "impressions": 642
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-19",
+            "metrics": {
+                "billed_charge_local_micro": 82200000,
+                "impressions": 1028
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-20",
+            "metrics": {
+                "billed_charge_local_micro": 55030000,
+                "impressions": 910
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-20",
+            "metrics": {
+                "billed_charge_local_micro": 50170000,
+                "impressions": 1989
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-21",
+            "metrics": {
+                "billed_charge_local_micro": 85620000,
+                "impressions": 882
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-21",
+            "metrics": {
+                "billed_charge_local_micro": 83650000,
+                "impressions": 1794
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-22",
+            "metrics": {
+                "billed_charge_local_micro": 63650000,
+                "impressions": 1481
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-22",
+            "metrics": {
+                "billed_charge_local_micro": 47930000,
+                "impressions": 1476
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-23",
+            "metrics": {
+                "billed_charge_local_micro": 77980000,
+                "impressions": 530
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-23",
+            "metrics": {
+                "billed_charge_local_micro": 50690000,
+                "impressions": 1170
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-24",
+            "metrics": {
+                "billed_charge_local_micro": 30360000,
+                "impressions": 881
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-24",
+            "metrics": {
+                "billed_charge_local_micro": 31950000,
+                "impressions": 1272
+            }
+        },
+        {
+            "campaign_id": "99901",
+            "date": "2024-11-25",
+            "metrics": {
+                "billed_charge_local_micro": 65300000,
+                "impressions": 974
+            }
+        },
+        {
+            "campaign_id": "99902",
+            "date": "2024-11-25",
+            "metrics": {
+                "billed_charge_local_micro": 82190000,
+                "impressions": 1313
+            }
+        }
+    ],
+    "metadata": {
+        "total_count": 22,
+        "period": "2024-11-15 to 2024-11-25"
+    }
+}
