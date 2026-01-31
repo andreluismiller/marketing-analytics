@@ -3,3 +3,14 @@ target:
   port: 5432
   database: "datalake_mkt"
   user: "postgres"
+  schema: "bronze"
+
+mappings:
+  - file_name: "api_response_google.json"
+    table_name: "raw_google"
+  - file_name: "api_response_meta.json"
+    table_name: "raw_meta"
+  - file_name: "api_response_tiktok.json"
+    table_name: "raw_tiktok"
+  - file_name: "api_response_x.json"
+    table_name: "raw_x"
